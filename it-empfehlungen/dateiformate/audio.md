@@ -6,8 +6,8 @@ authors:
   - trognitz.martina
 ---
 
-- [!Note]
-- Audio ist bei NFDI4Culture zu verorten. Vielleicht bei N4O als `deprecated` markieren und auf [Culture Knowledge Base](https://nfdi4culture.de/resources/knowledge-base.html) verweisen
+> [!Note]
+> Audio ist bei NFDI4Culture zu verorten. Vielleicht bei N4O als `deprecated` markieren und auf [Culture Knowledge Base](https://nfdi4culture.de/resources/knowledge-base.html) verweisen
 
 # Audio
 
